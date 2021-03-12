@@ -1,0 +1,16 @@
+/home/junio/git/dotnet/Solucao_de_problemas_em_CS/DDD/bin/Debug/net5.0/DDD
+/home/junio/git/dotnet/Solucao_de_problemas_em_CS/DDD/bin/Debug/net5.0/DDD.deps.json
+/home/junio/git/dotnet/Solucao_de_problemas_em_CS/DDD/bin/Debug/net5.0/DDD.runtimeconfig.json
+/home/junio/git/dotnet/Solucao_de_problemas_em_CS/DDD/bin/Debug/net5.0/DDD.runtimeconfig.dev.json
+/home/junio/git/dotnet/Solucao_de_problemas_em_CS/DDD/bin/Debug/net5.0/DDD.dll
+/home/junio/git/dotnet/Solucao_de_problemas_em_CS/DDD/bin/Debug/net5.0/ref/DDD.dll
+/home/junio/git/dotnet/Solucao_de_problemas_em_CS/DDD/bin/Debug/net5.0/DDD.pdb
+/home/junio/git/dotnet/Solucao_de_problemas_em_CS/DDD/obj/Debug/net5.0/DDD.csprojAssemblyReference.cache
+/home/junio/git/dotnet/Solucao_de_problemas_em_CS/DDD/obj/Debug/net5.0/DDD.GeneratedMSBuildEditorConfig.editorconfig
+/home/junio/git/dotnet/Solucao_de_problemas_em_CS/DDD/obj/Debug/net5.0/DDD.AssemblyInfoInputs.cache
+/home/junio/git/dotnet/Solucao_de_problemas_em_CS/DDD/obj/Debug/net5.0/DDD.AssemblyInfo.cs
+/home/junio/git/dotnet/Solucao_de_problemas_em_CS/DDD/obj/Debug/net5.0/DDD.csproj.CoreCompileInputs.cache
+/home/junio/git/dotnet/Solucao_de_problemas_em_CS/DDD/obj/Debug/net5.0/DDD.dll
+/home/junio/git/dotnet/Solucao_de_problemas_em_CS/DDD/obj/Debug/net5.0/ref/DDD.dll
+/home/junio/git/dotnet/Solucao_de_problemas_em_CS/DDD/obj/Debug/net5.0/DDD.pdb
+/home/junio/git/dotnet/Solucao_de_problemas_em_CS/DDD/obj/Debug/net5.0/DDD.genruntimeconfig.cache
